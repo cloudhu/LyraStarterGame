@@ -65,7 +65,7 @@ Plugins/LyraExtTool/*
 Plugins/ModularGameplayActors/*
 Plugins/PocketWorlds/*
 Plugins/UIExtension/*
-
+Plugins/NinjaInventory/*
 
 # Builds
 Build/*

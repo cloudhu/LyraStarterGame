@@ -23,5 +23,23 @@
 		}
 	],
 	"ExplicitlyLoaded": true,
-	"BuiltInInitialFeatureState": "Active"
+	"BuiltInInitialFeatureState": "Active",
+	"Plugins": [
+		{
+			"Name": "NinjaGAS",
+			"Enabled": true
+		},
+		{
+			"Name": "NinjaInput",
+			"Enabled": true
+		},
+		{
+			"Name": "NinjaFactions",
+			"Enabled": true
+		},
+		{
+			"Name": "NinjaCombat",
+			"Enabled": true
+		}
+	]
 }
